@@ -1,4 +1,8 @@
 ---
+genres:
+  - puzzle
+  - strategy
+  - management
 post: https://medium.com/@jayther/death-estate-js13k-2022-postmortem-863bfc0af423
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
